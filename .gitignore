@@ -1,0 +1,9 @@
+# ignore jupyter checkpoint directories everywhere
+.ipynb_checkpoints/
+
+# ignore 
+.virtual_documents/
+
+anaconda_projects/
+
+
